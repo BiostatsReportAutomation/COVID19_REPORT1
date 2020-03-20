@@ -4,3 +4,5 @@ This report will take its data source from the CDC website and create heat maps 
 provide update information on the current pandemic.
 There will be a step by step video on YouTube, and R code on how these reports are created and made dynamic to automatically update 
 report under 1 min following a click of a button in knitr, as and when data source changes on CDC website.
+--As of now this project is at the development stage
+--Buiding a Youtube video to support, explanation of the R code used in generating this dynamic report.
