@@ -7,5 +7,5 @@ report under 1 min following a click of a button in knitr, as and when data sour
 
 
 
---As of now this project is at the development stage.
---Buiding a Youtube video to support, explanation of the R code used in generating this dynamic report.
+As of now (March 20, 2020) this project is at the development stage.
+Buiding a Youtube video to support, explanation of the R code used in generating this dynamic report.
